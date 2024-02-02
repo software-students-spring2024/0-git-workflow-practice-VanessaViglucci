@@ -1,6 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
-
 # Here is a link to an article about software development/engireering: 
 (https://www.bbc.com/future/article/20221011-how-space-weather-causes-computer-errors)
 
